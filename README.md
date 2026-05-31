@@ -1,5 +1,4 @@
 
-````md
 # japanese-prompt-library
 
 日常で使いやすい日本語AIプロンプトをまとめたライブラリです。  
@@ -84,16 +83,3 @@ Issueで提案された内容を確認し、必要に応じてプロンプトや
 MIT
 
 ````
-
-やることは簡単です。
-
-今のREADMEの中身を **全部選択 → 削除 → 上の内容を貼り付け** してください。
-
-そのあと右上の緑の **Commit changes** を押します。
-
-コミットメッセージはこれでOKです。
-
-```text
-docs: expand README with usage and contribution guide
-````
-
